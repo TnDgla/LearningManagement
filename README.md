@@ -1,4 +1,6 @@
-### **Project Name: Udemy Clone**
+
+---
+# **Project Name: Udemy Clone**
 
 **Udemy Clone** is a Fullstack Learning Management System (LMS) application designed to allow users to browse, purchase, and take online courses while providing admin functionalities for managing courses, users, and payments.
 
