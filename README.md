@@ -179,7 +179,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Deploy the frontend to Vercel.
      - **Reading:** [Vercel Deployment Guide](https://vercel.com/docs)
-     - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=2LhoCfjm8R4)
+     - **Video:** [Deploying React Apps](https://www.youtube.com/watch?v=Hn-EmQJYC6c)
   2. Deploy the backend to Render.
      - **Reading:** [Render Documentation](https://render.com/docs)
      - **Video:** [Deploying Node.js Apps](https://www.youtube.com/watch?v=l134cBAJCuc)
