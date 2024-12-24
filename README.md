@@ -146,13 +146,13 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Set up Multer and Cloudinary for media uploads.
      - **Reading:** [Cloudinary Documentation](https://cloudinary.com/documentation)
-     - **Video:** [Multer & Cloudinary Setup](https://www.youtube.com/watch?v=GML8Mw449O4)
+     - **Video:** [Multer & Cloudinary Setup](https://www.youtube.com/watch?v=891d9kfootM&t=1s)
   2. Build APIs for adding, editing, and deleting courses.
      - **Reading:** [RESTful API Design](https://restfulapi.net/)
      - **Video:** [Building REST APIs](https://www.youtube.com/watch?v=pKd0Rpw7O48)
   3. Create React pages for course listing and details.
      - **Reading:** [React State Management](https://react.dev/learn/managing-state)
-     - **Video:** [React Components & State](https://www.youtube.com/watch?v=sbUPRl7rR3A)
+     - **Video:** [React Components & State](https://www.youtube.com/watch?v=-bEzt5ISACA&t=484s)
 
 - **Deliverables:**
   - Admin dashboard for managing courses.
